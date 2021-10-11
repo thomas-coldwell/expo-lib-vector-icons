@@ -1,0 +1,22 @@
+{
+  "name": "react-native-test-lib-example",
+  "displayName": "TestLib Example",
+  "expo": {
+    "name": "react-native-test-lib-example",
+    "slug": "react-native-test-lib-example",
+    "description": "Example app for react-native-test-lib",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
