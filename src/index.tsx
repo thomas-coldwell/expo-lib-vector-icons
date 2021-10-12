@@ -1,3 +1,6 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+import { Ionicons } from '@expo/vector-icons';
+import React from 'react';
+
+export const TestIcon = () => {
+  return <Ionicons name="ios-add" size={30} color="red" />;
+};
